@@ -7,7 +7,7 @@ A few Notes before we get into the project:
 4. Below tools I have used for this assignment:
    a. Jupyter notebook
    b. Open source Postgre server whose server details are below:
-       Service URI: postgres://avnadmin:AVNS_yGpIBK9-f-QpZ5bA7ri@pg-nikhiltest-nnn-nikhiltest.h.aivencloud.com:17081/defaultdb?sslmode=require
+       Service URI: postgres://avnadmin:<Password>@pg-nikhiltest-nnn-nikhiltest.h.aivencloud.com:17081/defaultdb?sslmode=require
        Database Name: defaultdb
        HostName: pg-nikhiltest-nnn-nikhiltest.h.aivencloud.com
        Port: 17081
