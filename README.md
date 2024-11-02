@@ -1,6 +1,3 @@
-# KinaraAssignment
-Assignment for Data Engineer
-
 #####
 
 A few Notes before we get into the project:
